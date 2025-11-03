@@ -10,12 +10,12 @@ a {
 }
 
 body{
-    font-size: 18px;
+    font-size: 20px;
     font-family: sans-serif;
 }
 
 header{
-    padding: 30px 70px;
+    padding: 30px 65px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -27,7 +27,7 @@ header{
 .intro{
     text-align: center;
     padding: 10px 0;
-    width: 40%;
+    width: 50%;
 }
 
 .intro h2 {
