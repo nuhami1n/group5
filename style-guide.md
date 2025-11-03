@@ -13,7 +13,7 @@ The designs were created to the following widths:
 
 ### Primary
 
-- Green 500: hsl(171, 66%, 44%)
+- Green 510: hsl(171, 66%, 44%)
 - Blue 100: hsl(233, 100%, 69%)
 
 ### Neutral
